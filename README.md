@@ -7,4 +7,6 @@
    <img src="https://profile-counter.glitch.me/SeongBrave/count.svg" />
   </p>
 
-- 专注于iOS移动开发
+- 专注于移动端开发
+- 相信代码改变现实
+- 学习中...
